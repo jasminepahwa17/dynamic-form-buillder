@@ -1,3 +1,8 @@
+a dynamic form builder using React.js. The form structure (fields, types, labels, etc.) are be provided as a JSON object. Based on this JSON, the form renders with the appropriate fields (text, checkbox, radio, etc.). 
+User can add new fields to the form and delete them.
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
