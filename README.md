@@ -1,4 +1,4 @@
-a dynamic form builder using React.js. The form structure (fields, types, labels, etc.) are be provided as a JSON object. Based on this JSON, the form renders with the appropriate fields (text, checkbox, radio, etc.). 
+A dynamic form builder using React.js. The form structure (fields, types, labels, etc.) are be provided as a JSON object. Based on this JSON, the form renders with the appropriate fields (text, checkbox, radio, etc.). 
 User can add new fields to the form and delete them.
 
 
